@@ -1,6 +1,6 @@
 ### Hello there ✌️
 
-#### My name is Aliaksandr (Alexander)
+#### My name is Aliaksandr
 
 I really enjoy programming. 
 
