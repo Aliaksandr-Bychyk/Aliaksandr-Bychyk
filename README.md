@@ -6,7 +6,7 @@ I really enjoy programming.
 
 #### 📫 How to reach me:
 * :airplane: Contact me via Telegram: [@aliaksandr_bychyk](https://t.me/aliaksandr_bychyk)
-* :e-mail: Also you can write me at email: sanya55bychyk@gmail.com
+* :e-mail: Also you can write me at email: sanya55bychyk@gmail.com or aliaksandr.bychyk@gmail.com
 * :link: My Discord: AmazingSanya#7830
 <!--
 **AlexanderBychyk/AlexanderBychyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
