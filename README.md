@@ -7,7 +7,7 @@ I'm a JavaScript Developer with a passion to learn technologies, increase my exp
 My technical stack is:
 - HTML5, CSS3, JavaScript (ES6+, TS);
 - SASS preprocessor;
-- Angular, ReactJS.
+- ReactJS, Angular.
 
 I have experience of working on an internal project at EPAM.
 I'm ready for new challenges.
