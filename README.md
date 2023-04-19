@@ -20,4 +20,4 @@ I'm ready for new challenges.
 
 #### Codewars
 
-![Codewars](https://www.codewars.com/users/AlexanderBychyk/badges/large)
+![Codewars](https://www.codewars.com/users/AliaksandrBychyk/badges/large)
