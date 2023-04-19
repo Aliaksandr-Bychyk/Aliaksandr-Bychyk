@@ -17,3 +17,7 @@ I'm ready for new challenges.
 * :e-mail: Also you can write me at email: sanya55bychyk@gmail.com or aliaksandr.bychyk@gmail.com
 * :link: My Discord: AmazingSanya#7830
 * :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/aliaksandr-bychyk)
+
+#### Codewars
+
+![Codewars](https://www.codewars.com/users/AlexanderBychyk/badges/large)
