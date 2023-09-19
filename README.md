@@ -2,15 +2,13 @@
 
 #### My name is Aliaksandr
 
-I'm a JavaScript Developer with a passion to learn technologies, increase my expertise and grow as an expert Software Engineer.
+I'm a Front-End Developer with a strong foundation in web development and a big desire to growth in this dynamic field.
 
 My technical stack is:
-- HTML5, CSS3, JavaScript (ES6+, TS);
-- SASS preprocessor;
-- ReactJS, Angular.
-
-I have experience of working on an internal project at EPAM.
-I'm ready for new challenges.
+• HTML5, CSS3, JavaScript (ES6+, TS);
+• SASS preprocessor;
+• Angular, React, NodeJS;
+• REST, GraphQL.
 
 #### 📫 How to reach me:
 * :airplane: Contact me via Telegram: [@aliaksandr_bychyk](https://t.me/aliaksandr_bychyk)
