@@ -4,7 +4,7 @@
 
 I'm a JavaScript | Front-End Developer with a strong foundation in web development and a big desire to grow in this dynamic field. I am familiar with Scrum/Agile software development methodologies, code review and quality best practices. During my work I conducted Technical Interviews and also I participated in mentoring less experienced colleagues.
 
-##### 🎯 My technical stack is:
+#### 🎯 My technical stack is:
 * JavaScript (ES6+, TS)
 * React
 
